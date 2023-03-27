@@ -6,7 +6,7 @@ Fuentes Joaquín Alberto
 
 # Instrucciones de uso
 Ingresar al siguiente link y podra ver el ejercicio funcionando en la web
-
+https://tp5-ej01-fuentesjoaquin.netlify.app/index.html
 
 
 
