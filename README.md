@@ -5,8 +5,8 @@ En este repositorio se encuentra el Ejercicio 01 del TP 5 de DOM y BOM. (Rolling
 Fuentes Joaquín Alberto
 
 # Instrucciones de uso
-Ingresar al siguiente link y podra ver el ejercicio funcionando en la web
-
+- Ingresar al siguiente link y podra ver el ejercicio funcionando en la web
+- https://tp5-ej01-fuentesjoaquin.netlify.app/index.html
 
 
 
