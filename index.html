@@ -28,14 +28,13 @@
         <section class="container py-5 text-center">
             <button class="btn btn-primary fs-5" id="btnComenzar" onclick="comenzarJuego()">¡Comenzar Juego!</button>
         </section>
-        <section class="container w-50 text-center my-5">
-
+        <form class="container w-50 text-center my-5">
             <div class="mb-3">
                 <label for="numeroIngresado" class="form-label">Ingrese un número entre 0 y 100:</label>
-                <input type="number" class="form-control" id="numeroIngresado" min="0" max="100">
+                <input type="number" class="form-control" id="numeroIngresado" min="0" max="100" required>
             </div>
-            <button class="btn btn-primary" onclick="enviarNumero()">Enviar</button>
-        </section>
+            <button type="submit" class="btn btn-primary" onsubmit="enviarNumero()">Enviar</button>
+        </form>
     </main>
     <footer>
 

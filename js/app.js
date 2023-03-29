@@ -26,10 +26,10 @@ function comenzarJuego() {
 }
 
 
-function enviarNumero(){
-
+function enviarNumero(e){
+    e.preventDefault() 
     console.log(`el numero ingresado  es: ${numIngresado.value}`);
-     console.log(`el numero aleatorio  es: ${numAleatorio}`);
+    console.log(`el numero aleatorio  es: ${numAleatorio}`);
 
      if (numIngresado.value == numAleatorio){
          alert(`Felicidades! Elegiste el número ${numIngresado.value} y adivinaste!`)
